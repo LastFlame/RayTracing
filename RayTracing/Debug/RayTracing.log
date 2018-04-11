@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\nikolas\source\repos\raytracing\raytracing\vec3.h(73): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\nikolas\source\repos\raytracing\raytracing\hitable_list.h(22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nikolas\source\repos\raytracing\raytracing\lambertian.h(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nikolas\source\repos\raytracing\raytracing\main.cpp(21): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nikolas\source\repos\raytracing\raytracing\main.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\nikolas\source\repos\raytracing\raytracing\main.cpp(41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\nikolas\source\repos\raytracing\raytracing\main.cpp(41): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nikolas\source\repos\raytracing\raytracing\main.cpp(65): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nikolas\source\repos\raytracing\raytracing\main.cpp(66): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nikolas\source\repos\raytracing\raytracing\main.cpp(67): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\nikolas\source\repos\raytracing\raytracing\main.cpp(68): warning C4305: 'argument': truncation from 'double' to 'float'
+  RayTracing.vcxproj -> C:\Users\Nikolas\source\repos\RayTracing\Debug\RayTracing.exe
